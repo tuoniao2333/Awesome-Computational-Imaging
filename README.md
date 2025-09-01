@@ -4,6 +4,7 @@ Collect some computational imaging related papers, data and repositories.
 ### Untrained Network
 |Year|Title | Published  | Code       | Keywords |
 |-------| ----- | ----- | ------- | ------- |
+|2025| Adaptive-learning physics-assisted light-field microscopy enables day-long and millisecond-scale super-resolution imageing of 3D subcellular dynamics| [Nat. Methods](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41467-025-62471-w)| [Tensorflow](https://github.com/feilab-hust/Alpha-LFM) |-|
 |2025| Deep learning empowered sub-diffraction **terahertz** backpropagation sigle-pixel imaging| [ACS Photonics](https://pubs.acs.org/doi/10.1021/acsphotonics.5c01060?ref=PDF)| -  |Subdiffraction imaging|
 |2024| Zero-shot learning enables instant denoising and super-resolution in optical fluorescence microscopy| [Nat. Commun.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41467-024-48575-9#Sec30)  |[Tensorflow](https://github.com/TristaZeng/ZS-DeconvNet)  | |
 |2024| Towards large-scale single-shot **millimeter-wave** imaging for low-cost security inspection| [Nat. Commun.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41467-024-50288-y)  | [Pytorch](https://github.com/bianlab/MMW)  | |
