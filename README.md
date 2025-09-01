@@ -13,6 +13,7 @@ Collect some computational imaging related papers, data and repositories.
 |2021|Face detection in **untrained deep neural network**| [Nat. Commun.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41467-021-27606-9#data-availability)  | [MATLAB](https://github.com/cogilab/Face)  |  |
 |2020| Phase imaging with an **untrained neural network**| [Light Sci. Appl.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41377-020-0302-3)| -  |Huygens-Fresnel|
 |2020|Neural blind deconvolution using deep priors|[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Neural_Blind_Deconvolution_Using_Deep_Priors_CVPR_2020_paper.pdf)|[Pytorch](https://github.com/csdwren/SelfDeblur)||
+|2018|Deep image prior|[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf)|[Pytorch](https://github.com/DmitryUlyanov/deep-image-prior)||
 
 ### Differentiable Imaging & PSF Model
 |Year|Title | Published  | Code       | Keywords |
