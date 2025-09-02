@@ -18,5 +18,12 @@
 |-------| ----- | ----- | ------- | ------- |
 |2024|Self-inspired learning for denoising live-cell super-resolution microscopy.|[Nat. Methods](https://doi.org/10.1038/s41592-024-02400-9)| [Pytorch](https://github.com/WeisongZhao/SN2N) |-|
 |2023|Rationalized deep learning super-resolution microscopy for sustained live imaging of rapid subcellular processes.|[Nat. Biotechnol]()|  |-|
+|2023|Statistically unbiased prediction enables accurate denoising of voltage imaging data.|[Nat. Methods]()|  |-|
+|2023|Bio-friendly long-term subcellular dynamic recording by self-supervised image enhancement microscopy.|[Nat. Methods]()|  |-|
+|2021|Removing independent noise in systems neuroscience data using DeepInterpolation.|[Nat. Methods]()|  |-|
+|2019|Noise2void-learning denoising from single noisy images.|[CVPR]()|  |-|
+|2019|Noise2self: blind denoising by self-supervision.|[PMLR]()|  |-|
+|2018|Noise2Noise: learning image restoration without clean data.|[PMLR]()|  |-|
+
 
 
