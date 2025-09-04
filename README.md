@@ -2,7 +2,7 @@
 Collect some computational imaging related papers, data and repositories.
 
 ### Untrained Network
-|Year|Title | Published  | Code       | Keywords |
+|Year|Title | Published  | Code       | Methods |
 |-------| ----- | ----- | ------- | ------- |
 |2025| Adaptive-learning physics-assisted light-field microscopy enables day-long and millisecond-scale super-resolution imageing of 3D subcellular dynamics| [Nat. Methods](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41467-025-62471-w)| [Tensorflow](https://github.com/feilab-hust/Alpha-LFM) |-|
 |2025| Deep learning empowered sub-diffraction **terahertz** backpropagation sigle-pixel imaging| [ACS Photonics](https://pubs.acs.org/doi/10.1021/acsphotonics.5c01060?ref=PDF)| -  |Subdiffraction imaging|
@@ -17,7 +17,7 @@ Collect some computational imaging related papers, data and repositories.
 |2018|Deep image prior|[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf)|[Pytorch](https://github.com/DmitryUlyanov/deep-image-prior)||
 
 ### Differentiable Imaging & PSF Model
-|Year|Title | Published  | Code       | Keywords |
+|Year|Title | Published  | Code       | Methods |
 |-------| ----- | ----- | ------- | ------- |
 |2025|Revisiting **PSF** models: unifying framework and high-performance implementation| [arxiv](https://arxiv.org/abs/2502.03170)  | [Pytorch](https://github.com/Biomedical-Imaging-Group/psf_generator)  | Richards-Wolf integral (high-NA) |
 |2025|Successive optimization of optics and post-processing with **differentiable coherent PSF** operator and field information| [IEEE Transactions on Computational Imaging (CCF-B)](https://onlinelibrary-wiley-com.accproxy.lib.szu.edu.cn/doi/10.1002/lpor.202200828)  | [Pytorch](https://github.com/Zrr-ZJU/Successive-optimization)  | ray-tracing based model for PSF formation |
@@ -26,10 +26,10 @@ Collect some computational imaging related papers, data and repositories.
 |2021|**Differentiable** compound optics and processing pipeline optimization for end-to-end camera design| [ACM Trans. on Graphics](https://dl.acm.org/doi/10.1145/3446791)  | -  |  |
 
 ### Terahertz Super Resolution
-|Year|Title | Published  | Code       | Keywords |
+|Year|Title | Published  | Code       | Methods |
 |-------| ----- | ----- | ------- | ------- |
 |2025|THz-super-resolution generative adversarial  network: deep-learning-based  super-resolution imaging using terahertz time-domain spectroscopy| [IEEE Trans. Ind. Inf.](https://ieeexplore-ieee-org.ezproxy.lib.szu.edu.cn/document/11017374)| -  | Bron-Wolf PSF model |
 |2024|Terahertz image super-resolution based on a complex network with wavelet and attention mechanisms|[Antennas Wirel. Propag. Lett.](https://ieeexplore.ieee.org/document/10402035/)| -  |Experimentally obtain the PSF of the system|
 |2024|Accurate reconstruction of terahertz spectral images with enhanced spatial resolution via complex mapping|[Opt. Express](https://opg.optica.org/abstract.cfm?URI=oe-32-18-31657)| -  |Gaussian blurring convolution |
-|2020|Adaptive terahertz image super-resolution with adjustable convolutional neural network| [Opt. Express](https://opg.optica.org/abstract.cfm?URI=oe-28-15-22200)|- |  |
+|2020|Adaptive terahertz image super-resolution with adjustable convolutional neural network| [Opt. Express](https://opg.optica.org/abstract.cfm?URI=oe-28-15-22200)|- |3D degradation model by incorporating the focused THz beam distribution|
 |2017|Mathematical modeling of THz point spread function and simulation of THz imaging systems| [IEEE Trans. THz Sci. Technol.](http://ieeexplore.ieee.org/document/8066357/)|- |  |
