@@ -29,5 +29,6 @@ Collect some computational imaging related papers, data and repositories.
 |Year|Title | Published  | Code       | Keywords |
 |-------| ----- | ----- | ------- | ------- |
 |2025|THz-super-resolution generative adversarial  network: deep-learning-based  super-resolution imaging using terahertz time-domain spectroscopy| [IEEE Trans. Ind. Inf.](https://ieeexplore-ieee-org.ezproxy.lib.szu.edu.cn/document/11017374)| -  | Bron-Wolf PSF model |
+|2024|Terahertz image super-resolution based on a complex network with wavelet and attention mechanisms|[Antennas Wirel. Propag. Lett.](https://ieeexplore.ieee.org/document/10402035/)| -  |Experimentally obtain the PSF of the system|
 |2024|Accurate reconstruction of terahertz spectral images with enhanced spatial resolution via complex mapping|[Opt. Express](https://opg.optica.org/abstract.cfm?URI=oe-32-18-31657)| -  |Gaussian blurring convolution |
 |2017|Mathematical modeling of THz point spread function and simulation of THz imaging systems| [IEEE Trans. THz Sci. Technol.](http://ieeexplore.ieee.org/document/8066357/)|- |  |
