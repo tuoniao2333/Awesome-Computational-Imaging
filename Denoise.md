@@ -33,8 +33,8 @@
 |2021|Reinforcing neuron extraction and spike inference in calcium imaging using deep self-supervised denoising.|[Nat. Methods]()|  |-|
 |2021|Recorrupted-to-Recorrupted: unsupervised deep learning for image denoise.|[CVPR]()|  |-|
 |2021|Neighbor2Neighbor: self-supervised denoising from single noisy images.|[CVPR]()|  |Train only on a set of single noisy images, by sub-sampling a noisy image to create a pair of noisy images.|
-|2019|Noise2Void-learning denoising from single noisy images.|[CVPR]()|  |-|
-|2019|Noise2Self: blind denoising by self-supervision.|[PMLR]()|  |-|
+|2019|Noise2Void-learning denoising from single noisy images.|[CVPR]()|  |Adopt the blind-spot strategy to avoid overfitting when training a DNN to map a noisy image to itself.|
+|2019|Noise2Self: blind denoising by self-supervision.|[PMLR]()|  |Adopt the blind-spot strategy to avoid overfitting when training a DNN to map a noisy image to itself.|
 |2018|Noise2Noise: learning image restoration without clean data.|[PMLR](https://proceedings.mlr.press/v80/lehtinen18a.html)|  |Train on different noisy observations of the same clean image.|
 
 
