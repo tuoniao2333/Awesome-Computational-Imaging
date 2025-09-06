@@ -31,7 +31,7 @@
 ||2022|A fast blind zero-shot denoiser.|[Nat. Mach. Intell.]( https://doi.org/10.1038/s42256-022-00547-8)|  |-|
 ||2021|Removing independent noise in systems neuroscience data using DeepInterpolation.|[Nat. Methods]()|  |-|
 ||2021|Reinforcing neuron extraction and spike inference in calcium imaging using deep self-supervised denoising.|[Nat. Methods]()|  |-|
-||2021|Recorrupted-to-Recorrupted: unsupervised deep learning for image denoise.|[CVPR]()|  |-|
+|&#9745;|2021|Recorrupted-to-Recorrupted: unsupervised deep learning for image denoise.|[CVPR]()|  |-|
 ||2021|Neighbor2Neighbor: self-supervised denoising from single noisy images.|[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Neighbor2Neighbor_Self-Supervised_Denoising_From_Single_Noisy_Images_CVPR_2021_paper.pdf)|  |Train only on a set of single noisy images, by sub-sampling a noisy image to create a pair of noisy images.|
 ||2019|Noise2Void-learning denoising from single noisy images.|[CVPR]()|  |Adopt the blind-spot strategy to avoid overfitting when training a DNN to map a noisy image to itself.|
 ||2019|Noise2Self: blind denoising by self-supervision.|[PMLR]()|  |Adopt the blind-spot strategy to avoid overfitting when training a DNN to map a noisy image to itself.|
