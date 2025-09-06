@@ -9,11 +9,11 @@ Collect some computational imaging related papers, data and repositories.
 ||2024| Zero-shot learning enables instant denoising and super-resolution in optical fluorescence microscopy| [Nat. Commun.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41467-024-48575-9#Sec30)  |[Tensorflow](https://github.com/TristaZeng/ZS-DeconvNet)  | |
 ||2024| Towards large-scale single-shot **millimeter-wave** imaging for low-cost security inspection| [Nat. Commun.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41467-024-50288-y)  | [Pytorch](https://github.com/bianlab/MMW)  | |
 ||2022|Simultaneous spectral recovery and CMOS micro-LED holography with an **untrained deep neural network**| [Optica](https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-10-1149&id=509776)  | [Pytorch](https://github.com/iksungk/simultaneous_recovery)  |  |
-||2022| Far-field super-resolution ghost imaging with a **deep neural network constraint**| [Light Sci. Appl.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41377-021-00680-w)| [Tensorflow](https://github.com/FeiWang0824/GIDC) |SPI|
+|&#9745;|2022| Far-field super-resolution ghost imaging with a **deep neural network constraint**| [Light Sci. Appl.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41377-021-00680-w)| [Tensorflow](https://github.com/FeiWang0824/GIDC) |SPI|
 ||2021| Dual-wavelength in-line digital holography with **untrained deep neural networks**| [Photonics Res.](https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-12-2501&id=465552)| -  |quantitative phase imaging|
 ||2021|Face detection in **untrained deep neural network**| [Nat. Commun.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41467-021-27606-9#data-availability)  | [MATLAB](https://github.com/cogilab/Face)  |  |
 ||2020| Phase imaging with an **untrained neural network**| [Light Sci. Appl.](https://www-nature-com.accproxy.lib.szu.edu.cn/articles/s41377-020-0302-3)| -  |Huygens-Fresnel|
-||2020|Neural blind deconvolution using deep priors|[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Neural_Blind_Deconvolution_Using_Deep_Priors_CVPR_2020_paper.pdf)|[Pytorch](https://github.com/csdwren/SelfDeblur)||
+|&#9745;|2020|Neural blind deconvolution using deep priors|[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Neural_Blind_Deconvolution_Using_Deep_Priors_CVPR_2020_paper.pdf)|[Pytorch](https://github.com/csdwren/SelfDeblur)||
 |&#9745;|2018|Deep image prior|[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf)|[Pytorch](https://github.com/DmitryUlyanov/deep-image-prior)|The image prior is captured from the CNN network rather than specially designed.|
 
 ### Differentiable Imaging & PSF Model
