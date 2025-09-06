@@ -38,7 +38,7 @@
 ||2021|Neighbor2Neighbor: self-supervised denoising from single noisy images.|[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_Neighbor2Neighbor_Self-Supervised_Denoising_From_Single_Noisy_Images_CVPR_2021_paper.pdf)|  |Train only on a set of single noisy images, by sub-sampling a noisy image to create a pair of noisy images.|
 ||2019|Noise2Void-learning denoising from single noisy images.|[CVPR]()|  |Adopt the blind-spot strategy to avoid overfitting when training a DNN to map a noisy image to itself.|
 ||2019|Noise2Self: blind denoising by self-supervision.|[PMLR]()|  |Adopt the blind-spot strategy to avoid overfitting when training a DNN to map a noisy image to itself.|
-|&#9745;|2018|Noise2Noise: learning image restoration without clean data.|[PMLR](https://proceedings.mlr.press/v80/lehtinen18a.html)|  |Train on different noisy observations of the same clean image.|
+|&#9745;|2018|Noise2Noise: learning image restoration without clean data.|[PMLR](https://proceedings.mlr.press/v80/lehtinen18a.html)|  |Given that the noise has zero mean, training a network to map one noisy image to another noisy image of the same scene performs as well as mapping to the ground truth.|
 
 
 
