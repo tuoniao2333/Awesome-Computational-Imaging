@@ -4,6 +4,9 @@
 |2022|Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy.|[Nat. Biotechnol.]()|  |-|
 |2020|Fast and accurate sCMOS noise correction for fluorescence microscopy.|[Nat. Commun.]()|  |-|
 |2018|Fast, long-term, super-resolution imaging with Hessian structured illumination microscopy.|[Nat. Biotechnol.]()|  |-|
+|2014|Weighted nuclear norm minimization with application to image denoising.|[CVPR]()|  |WNNM|
+|2007|Image denoising by sparse 3-d transform-domain collaborative filtering.|[TIP]()|  |BM3D|
+|2004|A non-local algorithm for image denoising.|[CVPR]()|  |NLM|
 
 ### Deep neural networks
 #### Learn the mapping between noisy images and their clean counterparts
