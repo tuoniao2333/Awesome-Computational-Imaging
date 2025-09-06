@@ -17,7 +17,7 @@
 |2021|Deep learning-based point-scanning super-resolution imaging.|[Nat. Methods]()|  |-|
 |2021|Three-dimensional residual channel attention networks denoise and sharpen fluorescence microscopy image volumes.|[Nat. Methods]()|  |-|
 |2018|Content-aware image restoration: pushing the limits of fluorescence microscopy.|[Nat. Methods]()|  |-|
-|2017|Beyond a Gaussian denoiser: residual learning of deep CNN for image denoising.|[TIP]()|  |-|
+|2017|Beyond a Gaussian denoiser: residual learning of deep CNN for image denoising.|[TIP]()|  |Combine the convolutional neural network and residual learning for image denoising.|
 |2017|MemNet: a persistent memory network for image restoration.|[CVPR]()|  |-|
 
 ### Self-supervised methods
