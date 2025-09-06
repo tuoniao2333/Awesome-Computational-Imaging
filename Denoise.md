@@ -30,7 +30,7 @@
 ||2023|Real-time denoising enables high-sensitivity fluorescene time-lapse imaging beyond the shot-noise limit.|[Nat. Biotechnol]()|  |-|
 ||2023|Statistically unbiased prediction enables accurate denoising of voltage imaging data.|[Nat. Methods]()|  |-|
 ||2023|Bio-friendly long-term subcellular dynamic recording by self-supervised image enhancement microscopy.|[Nat. Methods]()|  |-|
-||2023|Zero-Shot Noise2Noise: Efficient image denoising without any data.|[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Mansour_Zero-Shot_Noise2Noise_Efficient_Image_Denoising_Without_Any_Data_CVPR_2023_paper.pdf)|[Pytorch](https://colab.research.google.com/drive/1i82nyizTdszyHkaHBuKPbWnTzao8HF9b)  |Generate a pair of noisy images from a single noisy image and train a small network only on this pair.|
+|&#9745;|2023|Zero-Shot Noise2Noise: Efficient image denoising without any data.|[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Mansour_Zero-Shot_Noise2Noise_Efficient_Image_Denoising_Without_Any_Data_CVPR_2023_paper.pdf)|[Pytorch](https://colab.research.google.com/drive/1i82nyizTdszyHkaHBuKPbWnTzao8HF9b)  |Generate a pair of noisy images from a single noisy image and train a small network only on this pair.|
 ||2022|A fast blind zero-shot denoiser.|[Nat. Mach. Intell.]( https://doi.org/10.1038/s42256-022-00547-8)|  |-|
 ||2021|Removing independent noise in systems neuroscience data using DeepInterpolation.|[Nat. Methods]()|  |-|
 ||2021|Reinforcing neuron extraction and spike inference in calcium imaging using deep self-supervised denoising.|[Nat. Methods]()|  |-|
